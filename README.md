@@ -5,7 +5,7 @@ A list and comparision of Ethereum 2 Staking Providers
 --- | --- | --- | --- | --- | --- |
 [Attestant](https://attestant.io)|  | | | | |
 [ChainGuardian](https://github.com/NodeFactoryIo/ChainGuardian)|Croatia  | | ||
-[Rocket Pool](https://www.rocketpool.net)|Australia | | | ||
+[Rocket Pool](https://www.rocketpool.net)|Australia | |upgradable smart contract |determined by host node vote||
  
 
 * Degree of centralization will eventually be expressed as a rank from 0-4, but this scale hasn't been developed yet. It should be based on a fair rubric.
