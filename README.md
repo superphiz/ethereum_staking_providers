@@ -6,7 +6,6 @@ A list and comparision of Ethereum 2 Staking Providers
  Name|locale|Degree of Centralization|Custodianship | Fees| Notes|
 --- | --- | --- | --- | --- | --- |
 [Attestant](https://attestant.io)|  | | | | |
-
 [Rocket Pool](https://www.rocketpool.net)|Australia | |upgradable smart contract |determined by host node vote||
  
 
