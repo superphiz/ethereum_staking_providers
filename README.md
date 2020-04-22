@@ -1,4 +1,4 @@
-# ethereum_staking_providers
+# Comparing Ethereum 2 Staking Service Providers
 A list and comparision of Ethereum 2 Staking Providers
 
  Name|Site|Degree of Centralization |Notes|
