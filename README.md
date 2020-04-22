@@ -13,9 +13,5 @@ A list and comparision of Ethereum 2 Staking Providers
 
 
 ## Staking Clients
-Name| Niche | language | Code Repo| platform(s) | Web UI? |
---- | --- | --- | --- | --- | --- |
-[Lighthouse](https://lighthouse.sigmaprime.io/) |  |Rust | | | |
-Nimbus |Mobile phones | | | | |
-[Prysmatic](https://prysmaticlabs.net)| |Golang | |Linux, Docker images for windows| No |
-Teku |  |Java | | | |
+
+A list of solo staking clients is maintained [here by ethub.io.](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/). 
